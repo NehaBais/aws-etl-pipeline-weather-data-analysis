@@ -1,0 +1,60 @@
+id,name
+AWND,Average wind speed
+DAPR,Number of days included in the multiday precipitation total (MDPR)
+DATN,Number of days included in the multiday minimum temperature (MDTN)
+DATX,Number of days included in the multiday maximum temperature (MDTX)
+DWPR,Number of days with non-zero precipitation included in multiday precipitation total (MDPR)
+EVAP,Evaporation of water from evaporation pan
+MDPR,"Multiday precipitation total (use with DAPR and DWPR, if available)"
+MDTN,Multiday minimum temperature (use with DATN)
+MDTX,Multiday maximum temperature (use with DATX)
+MNPN,Daily minimum temperature of water in an evaporation pan
+MXPN,Daily maximum temperature of water in an evaporation pan
+PGTM,Peak gust time
+PRCP,Precipitation
+PSUN,Daily percent of possible sunshine for the period
+SN31,Minimum soil temperature with bare ground cover at 5 cm depth
+SN32,Minimum soil temperature with bare ground cover at 10 cm depth
+SN33,Minimum soil temperature with bare ground cover at 20 cm depth
+SN35,Minimum soil temperature with bare ground cover at 100 cm depth
+SN36,Minimum soil temperature with bare ground cover at 150 cm depth
+SN51,Minimum soil temperature with sod cover at 5 cm depth
+SN52,Minimum soil temperature with sod cover at 10 cm depth
+SN53,Minimum soil temperature with sod cover at 20 cm depth
+SN55,Minimum soil temperature with sod cover at 100 cm depth
+SNOW,Snowfall
+SNWD,Snow depth
+SX31,Maximum soil temperature with bare ground cover at 5 cm depth
+SX32,Maximum soil temperature with bare ground cover at 10 cm depth
+SX33,Maximum soil temperature with bare ground cover at 20 cm depth
+SX35,Maximum soil temperature with bare ground cover at 100 cm depth
+SX51,Maximum soil temperature with sod cover at 5 cm depth
+SX52,Maximum soil temperature with sod cover at 10 cm depth
+SX53,Maximum soil temperature with sod cover at 20 cm depth
+SX55,Maximum soil temperature with sod cover at 100 cm depth
+TAVG,Average Temperature.
+THIC,Thickness of ice on water
+TMAX,Maximum temperature
+TMIN,Minimum temperature
+TOBS,Temperature at the time of observation
+WDF2,Direction of fastest 2-minute wind
+WDF5,Direction of fastest 5-second wind
+WDFG,Direction of peak wind gust
+WDMV,Total wind movement
+WESD,Water equivalent of snow on the ground
+WESF,Water equivalent of snowfall
+WSF2,Fastest 2-minute wind speed
+WSF5,Fastest 5-second wind speed
+WSFG,Peak gust wind speed
+WSFI,Highest instantaneous wind speed
+WT01,"Fog, ice fog, or freezing fog (may include heavy fog)"
+WT02,Heavy fog or heaving freezing fog (not always distinguished from fog)
+WT03,Thunder
+WT04,"Ice pellets, sleet, snow pellets, or small hail"" "
+WT05,Hail (may include small hail)
+WT06,Glaze or rime 
+WT07,"Dust, volcanic ash, blowing dust, blowing sand, or blowing obstruction"
+WT08,Smoke or haze 
+WT09,Blowing or drifting snow
+WT10,"Tornado, waterspout, or funnel cloud"" "
+WT11,High or damaging winds
